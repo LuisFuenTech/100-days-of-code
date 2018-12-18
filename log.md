@@ -25,3 +25,16 @@ console.log("my@mail.com @ his@site.com.uk".match(reg)) -> ['my@mail.com', 'his@
 **Links to work:** 
 * [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 * [JavaScript info](https://javascript.info/regular-expressions)
+
+### Day 2: December 16, 2018
+#####
+
+**Today's Progress:** I've been adding new features to the react project, those were:
+* Adding routes 
+* Switch and Link to avoid re-refresh
+* Route props
+* Passing props
+
+**Thoughts:** It's taking the form lika a PWA.
+
+**Link to work:** [Mastering reactjs](https://codewithmosh.com/p/mastering-react)
