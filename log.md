@@ -26,7 +26,7 @@ console.log("my@mail.com @ his@site.com.uk".match(reg)) -> ['my@mail.com', 'his@
 * [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 * [JavaScript info](https://javascript.info/regular-expressions)
 
-### Day 2: December 16, 2018
+### Day 2: December 17, 2018
 #####
 
 **Today's Progress:** I've been adding new features to the react project, those were:
@@ -34,6 +34,15 @@ console.log("my@mail.com @ his@site.com.uk".match(reg)) -> ['my@mail.com', 'his@
 * Switch and Link to avoid re-refresh
 * Route props
 * Passing props
+
+**Thoughts:** It's taking the form lika a PWA.
+
+**Link to work:** [Mastering reactjs](https://codewithmosh.com/p/mastering-react)
+
+### Day 3: December 18, 2018
+#####
+
+**Today's Progress:** I worked with the vidly clone project but know I've added query string parameters, programmatic navigation and also the navBar with react routing.
 
 **Thoughts:** It's taking the form lika a PWA.
 
