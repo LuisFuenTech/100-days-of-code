@@ -47,3 +47,23 @@ console.log("my@mail.com @ his@site.com.uk".match(reg)) -> ['my@mail.com', 'his@
 **Thoughts:** It's taking the form lika a PWA.
 
 **Link to work:** [Mastering reactjs](https://codewithmosh.com/p/mastering-react)
+
+### Day 4: December 19, 2018
+#####
+
+**Today's Progress:** I decided read more about Route component, where its responsibility is to render some component when a URL matches the Route‘s path. Now my project looks like SPA as a mobile app does.
+
+**Thoughts:** It's taking the form lika a PWA.
+
+**Link to work:** [React Router v4](https://blog.pusher.com/getting-started-with-react-router-v4/)
+
+### Day 5: December 20, 2018
+#####
+
+**Today's Progress:** I've:
+* Add the login form
+* Learn the event.preventDefault() is use to avoid full page reload
+* Handle multiple inputs with 'currentTarget' property
+Day by day my #react #project is growing up and become a big guy
+
+**Thoughts:** It's taking the form lika a PWA.
