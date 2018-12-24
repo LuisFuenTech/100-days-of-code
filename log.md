@@ -79,6 +79,7 @@ Day by day my #react #project is growing up and become a big guy
 **Today's Progress:**  I've  improved my react project, but Today I want to highlight something that every developer should know.
 
 **Thoughts:** It's taking the form lika a PWA.
+
 **Link to work:** [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 
 ### Day 8: December 23, 2018
@@ -87,4 +88,5 @@ Day by day my #react #project is growing up and become a big guy
 **Today's Progress:** I've been updated the login form component from my #react #project. Also, I valid fields using joi-browser npm and displaying valid message by default.
 
 **Thoughts:** It's taking the form lika a PWA.
+
 **Link to work:** [Joi npm](https://bit.ly/2IB3ynC)
