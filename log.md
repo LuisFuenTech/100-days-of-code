@@ -85,8 +85,25 @@ Day by day my #react #project is growing up and become a big guy
 ### Day 8: December 23, 2018
 #####
 
-**Today's Progress:** I've been updated the login form component from my #react #project. Also, I valid fields using joi-browser npm and displaying valid message by default.
+**Today's Progress:** I've been updated the login form component from my react project. Also, I valid fields using joi-browser npm and displaying valid message by default.
 
 **Thoughts:** It's taking the form lika a PWA.
 
 **Link to work:** [Joi npm](https://bit.ly/2IB3ynC)
+
+### Day 9: December 24, 2018
+#####
+
+**Today's Progress:** At last I started to call backend services from the React project. Knowing about jsonplacerholder and axios to manage http clients and getting data.
+**Thoughts:** It's taking the form lika a PWA.
+
+**Link to work:** [Jsonplaceholder](https://bit.ly/2g84osK)
+
+### Day 10: December 24, 2018
+#####
+
+**Today's Progress:** Trying to learn how #FrontEnd and backend work together, I made a little project for testing http request using axios. It shows me some post from jsonplacerholder and update or delete it. I've learned this today.
+
+**Thoughts:** It's taking the form lika a PWA.
+
+**Link to work:** [Axios npm](https://bit.ly/2rSf9Yq)
